@@ -1,0 +1,49 @@
+table,th,td{
+    border: solid;
+}
+fieldset{
+    width: 250px;
+    /* margin-top: 300px; */
+
+}
+body{
+    background-image:url("thumbnail.jpg");
+
+    /* background-repeat:none; */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+table{
+    float: right;
+    width: 800px;
+    height: 100px;
+}
+label{
+    font-size: 35px;
+    color:#eee;
+}
+input{
+    width: 200px;
+    height: 20px;
+}
+select{
+    width: 200px;
+    height: 20px;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+    /* rgba ( 96 , 96 , 96 ,0 .6) */
+
+}
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: 0px;
+  }
